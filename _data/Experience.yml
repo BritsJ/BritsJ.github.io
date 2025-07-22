@@ -1,36 +1,22 @@
-- position: 'Lead: Digital Insights'
-  company: Standard Bank
-  location: South Africa
-  start: October 2024
-  end: Present
-  summary: Leading the AI and Machine Learning Centre of Excellence within Corporate
-    and Investment Banking.
-  highlights:
-  - Established AI/ML Centre of Excellence.
-  - Benchmarked AI/ML platforms for secure deployment.
-  - Developed governance frameworks for ethical AI.
-  - Guided teams in operationalising AI initiatives.
-- position: Software Engineer
-  company: Standard Bank
-  location: South Africa
-  start: February 2022
-  end: September 2024
-  summary: Designed and developed scalable data platforms and automated analytics
-    pipelines.
-  highlights:
-  - Built data platform using C#, SQL, Python, Spark on Databricks.
-  - Enabled self-service data ingestion.
-  - Implemented DevOps with Octopus Deploy and GitHub.
-  - Migrated solutions to Azure PaaS.
-  - Developed microservices with .NET Core.
-  - Configured Azure API Manager and CI pipelines.
-- position: Systems Developer
-  company: Standard Bank
-  location: South Africa
-  start: February 2017
-  end: January 2022
-  summary: Focused on enhancing platform usability and maintainability.
-  highlights:
-  - Implemented dynamic row-level security for apps and Power BI.
-  - Developed SSIS processes for Azure databases.
-  - Configured CI pipelines using GitLab, Redgate, Jenkins, Octopus Deploy.
+subject: Experiences
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: Nanosoft
+    role: Project Manager
+    description:
+      - Led development of a new chatbot software utilizing large language model
+      - Co-designer of '*Kopilot*' and '*Gemmini*'
+    date: Jan. 2024 - Ongoing
+  - title: Amazone
+    role: Senior Software Engineer
+    description: 
+      - Built a Java microservice, database schema to manage customer accounts
+      - Enhanced internal pipelines to query real-time data from client devices
+    date: Apr. 2016 - Dec. 2018
+  - title: Pacebook
+    role: Software Engineer Intern
+    description: 
+      - Designed the dynamic website using React for data visualization
+      - Integrated '*Yolo*' to boost the accuracy of the object detection
+    date: Jul. 2013 - Sep. 2013
