@@ -9,16 +9,22 @@ contents:
       - Conducted comprehensive benchmarking of AI/ML platforms and tools to streamline the path from model development to secure, scalable production deployment.
       - Driving the development of governance frameworks and best practices to ensure AI solutions are deployed safely, ethically, and in compliance with enterprise standards.
       - Collaborating cross-functionally to guide teams in operationalising AI initiatives, with a focus on security, reproducibility, and long-term sustainability.
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
+    date: October 2024 - Present
+  - title: Standard Bank
     role: Senior Software Engineer
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Contributed to the design and development of a scalable data platform using C#, SQL, Python, and Apache Spark on Databricks.
+      - Streamlined developer onboarding by simplifying platform architecture, enabling self-service data ingestion into data lakes.
+      - Implemented DevOps practices using Octopus Deploy and GitHub to automate deployments and improve CI/CD workflows.
+      - Focused on enhancing platform usability and maintainability to support rapid development and integration of new data sources.
+    date: February 2022 - September 2024 (2 years 8 months)
+  - title: Standard Bank
+    role: Systems Developer
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Migrated data solutions to Azure (Paas) allowing for more scalability and less maintenance.
+      - Implemented dynamic row-level security that works across both applications and Power BI reporting enabling security to be managed in one place.
+      - Developed a dynamic process using SSIS to transfer data to databases in Azure.
+      - Documented and developed microservices using .Net Core (C#).
+      - Configured Azure API Manager to expose data for client consumption.
+      - Configured continuous integration pipelines using GitLab, Redgate, Jenkins and Octopus Deploy
+    date:  February 2017 - January 2022 (5 years)
