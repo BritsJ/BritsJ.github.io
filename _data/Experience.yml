@@ -2,11 +2,13 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Standard Bank
+    role: Lead - Digital Insights 
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
+      - Spearheading the establishment of an AI and Machine Learning Centre of Excellence (CoE) within the Corporate and Investment Banking (CIB) division.
+      - Conducted comprehensive benchmarking of AI/ML platforms and tools to streamline the path from model development to secure, scalable production deployment.
+      - Driving the development of governance frameworks and best practices to ensure AI solutions are deployed safely, ethically, and in compliance with enterprise standards.
+      - Collaborating cross-functionally to guide teams in operationalising AI initiatives, with a focus on security, reproducibility, and long-term sustainability.
     date: Jan. 2024 - Ongoing
   - title: Amazone
     role: Senior Software Engineer
