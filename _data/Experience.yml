@@ -17,7 +17,7 @@ contents:
       - Streamlined developer onboarding by simplifying platform architecture, enabling self-service data ingestion into data lakes.
       - Implemented DevOps practices using Octopus Deploy and GitHub to automate deployments and improve CI/CD workflows.
       - Focused on enhancing platform usability and maintainability to support rapid development and integration of new data sources.
-    date: February 2022 - September 2024 (2 years 8 months)
+    date: February 2022 - September 2024
   - title: Standard Bank
     role: Systems Developer
     description: 
@@ -27,4 +27,4 @@ contents:
       - Documented and developed microservices using .Net Core (C#).
       - Configured Azure API Manager to expose data for client consumption.
       - Configured continuous integration pipelines using GitLab, Redgate, Jenkins and Octopus Deploy
-    date:  February 2017 - January 2022 (5 years)
+    date:  February 2017 - January
